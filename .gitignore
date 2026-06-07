@@ -1,0 +1,9 @@
+.env
+
+logs/*
+!logs/.gitkeep
+
+config/airflow.cfg
+
+__pycache__/
+*.pyc
